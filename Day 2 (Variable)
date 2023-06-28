@@ -5,7 +5,7 @@ method 1 to declare varibale
 use "var" Keyword To to declare any varibale
 Ex: 
 var name = "Suraj molla"
-var age = 23
+var age = 22
 document.write(name);
 docment.write(age)
 
@@ -15,5 +15,7 @@ you can declare multiple variable in one time
 
 var name , age
 
+name = "suraj"
+age = 22
 document.write(age,name)
 
