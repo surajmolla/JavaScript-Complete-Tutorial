@@ -1,0 +1,19 @@
+// Variable used to store any data , that can i use repeted in any place of code
+
+method 1 to declare varibale
+
+use "var" Keyword To to declare any varibale
+Ex: 
+var name = "Suraj molla"
+var age = 23
+document.write(name);
+docment.write(age)
+
+
+method 1 to declare varibale
+you can declare multiple variable in one time
+
+var name , age
+
+document.write(age,name)
+
