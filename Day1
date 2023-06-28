@@ -11,3 +11,19 @@ console.log(" Hey  I am from console ")
 // Alert Function
 
 alert(" it will show alert box on your browser")
+
+
+// To comment Any things in your code
+// single line comment :
+use "//"
+Ex: //I am In comment 
+
+//Multiple line comment 
+use: "/*  *\"
+Ex: /*
+I am in comment line 1 
+I am in comment line 2
+*/
+
+
+
