@@ -1,0 +1,4 @@
+// A program to print your details info
+document.write("Name : Suraj Molla <br/>")
+document.write("Nationality : India <br/>")
+document.write("Email : Surajmollaofficial@gmail.com")
